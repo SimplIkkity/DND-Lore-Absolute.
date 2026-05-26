@@ -6,3 +6,10 @@ Cerita akan bertimeline sebagai:
 1. Dnd Lore: Absolute - 5 Episode.
 2. Dnd Lore: Perfection - TBA.
 3. Dnd Campaign: Lettuce Plenger - TBA.
+
+Things to do:
+- Rapihin Backstory, change jadi folder isinya perkarakter.
+- Lanjut episode 1.
+
+
+🍋‍🟩 Jeje
