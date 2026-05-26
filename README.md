@@ -6,6 +6,3 @@ Cerita akan bertimeline sebagai:
 1. Dnd Lore: Absolute - 5 Episode.
 2. Dnd Lore: Perfection - TBA.
 3. Dnd Campaign: Lettuce Plenger - TBA.
-4. Dnd Campaign: Lettuce, Hae Ruu's Secret - 3 Chapter.
-5. Dnd Lore: After Lettuce.
-6. Dnd Lore: Years After (Special.)
