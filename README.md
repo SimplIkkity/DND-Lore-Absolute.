@@ -10,6 +10,7 @@ Cerita akan bertimeline sebagai:
 Things to do:
 - Rapihin Backstory, change jadi folder isinya perkarakter.
 - Lanjut episode 1.
+- Rewrite character Hanru
 
 
 🍋‍🟩 Jeje
