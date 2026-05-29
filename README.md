@@ -13,4 +13,4 @@ Things to do:
 - Rewrite character Hanru
 
 
-🍋‍🟩 Jeje
+❄️ Ikki
